@@ -1,0 +1,9 @@
+{
+  "name": "Sharon - Intelligent Assistant",
+  "description": "A sophisticated AI assistant by HeadLights.company, capable of text, image, and video generation with real-time voice interaction.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}

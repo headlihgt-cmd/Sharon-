@@ -1,0 +1,24 @@
+
+{
+  "name": "Sharon AI",
+  "short_name": "Sharon",
+  "description": "Assistante Intelligente HeadLights.company",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#020617",
+  "theme_color": "#06b6d4",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "https://images.unsplash.com/photo-1614644144489-fa0693b853f1?q=80&w=192&auto=format&fit=crop",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://images.unsplash.com/photo-1614644144489-fa0693b853f1?q=80&w=512&auto=format&fit=crop",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
